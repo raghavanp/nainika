@@ -26,7 +26,7 @@ section {
 nav {
   float: left;
   width: 10%;
-  height: 400px; /* only for demonstration, should be removed */
+  height: 65%; /* only for demonstration, should be removed */
   background: #fc0;
   padding: 5px;
 }
@@ -42,7 +42,7 @@ article {
   padding: 20px;
   width: 60%;
   background-color: cyan;
-  height: 400px; /* only for demonstration, should be removed */
+  height: 65%; /* only for demonstration, should be removed */
 }
 
 article-img {
@@ -50,7 +50,7 @@ article-img {
   padding: 0;
   width: 30%;
   background-color: cyan;
-  height: 400px; /* only for demonstration, should be removed */
+  height: 65%; /* only for demonstration, should be removed */
 }
 
 /* Clear floats after the columns */
